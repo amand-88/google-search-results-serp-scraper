@@ -1,0 +1,13 @@
+{
+  "base_url": "https://www.google.com/search",
+  "timeout_seconds": 20,
+  "retries": 2,
+  "retry_backoff_seconds": 1.0,
+  "default_params": {
+    "num": 10,
+    "safe": "off"
+  },
+  "default_headers": {
+    "Pragma": "no-cache"
+  }
+}
