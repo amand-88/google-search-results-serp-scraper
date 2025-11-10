@@ -1,0 +1,15 @@
+[
+  {
+    "query": "Nike",
+    "results": [
+      {
+        "position": 1,
+        "title": "Nike. Just Do It. Nike.com",
+        "url": "https://www.nike.com/",
+        "description": "Discover the latest shoes, apparel and accessories."
+      }
+    ],
+    "next_page": 2,
+    "next_start": 10
+  }
+]
